@@ -1,7 +1,7 @@
 
 # Hi I'm Ali! 👋
 
-A Front-end Developer with a passion for bringing new and creative ideas to live products on the web. Developed several functional websites and full-stack applications. Enthusiast for building robust, scalable, and maintainable web applications.
+A Full-stack Developer with a passion for bringing new and creative ideas to live products on the web. Developed several functional websites and full-stack applications. Enthusiast for building robust, scalable, and maintainable web applications.
 
 
 
@@ -15,13 +15,13 @@ Highly motivated and self-taught Web Developer. Committed to building robust, sc
 ## Skills
 
 #### 💻 Programming languages 
-JavaScript and Java
+Typescript and Java
 
 #### 🖼️ Frontend Frameworks
 React and Next.js 
 
 #### 🌐 Backend Frameworks
-Node.js and ExpressJS
+Node.js, Nest.js and ExpressJS
 
 #### 🛠️ Tools
 Typescript, TailWind, MongoDB, GraphQL and SASS
@@ -29,7 +29,7 @@ Typescript, TailWind, MongoDB, GraphQL and SASS
 ## Current Tech Stack 📚
 Client: React, Typescript, and TailwindCSS
 
-Server: Node.js, Express.js, and MongoDB
+Server: Nest.js, Node.js, Express.js, and MongoDB
 
 ## Contact me 📇
 Contact me through this email alimarnoos@gmail.com
