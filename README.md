@@ -21,15 +21,15 @@ Typescript and Java
 React and Next.js 
 
 #### 🌐 Backend Frameworks
-Node.js, Nest.js and ExpressJS
+Nest.js and Express.js
 
 #### 🛠️ Tools
-Typescript, TailWind, MongoDB, GraphQL and SASS
+TailWind, MongoDB, GraphQL and SASS
 
 ## Current Tech Stack 📚
 Client: React, Typescript, and TailwindCSS
 
-Server: Nest.js, Node.js, Express.js, and MongoDB
+Server: Nest.js, Express.js, MySQL, and MongoDB
 
 ## Contact me 📇
 Contact me through this email alimarnoos@gmail.com
