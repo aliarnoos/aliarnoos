@@ -18,7 +18,7 @@ Highly motivated and self-taught Web Developer. Committed to building robust, sc
 Typescript and Java
 
 #### 🖼️ Frontend Frameworks
-React and Next.js 
+React, Vue, and Next.js 
 
 #### 🌐 Backend Frameworks
 Nest.js and Express.js
@@ -27,7 +27,7 @@ Nest.js and Express.js
 TailWind, MongoDB, GraphQL and SASS
 
 ## Current Tech Stack 📚
-Client: React, Typescript, and TailwindCSS
+Client: React, Vue, Typescript, and TailwindCSS
 
 Server: Nest.js, Express.js, MySQL, and MongoDB
 
