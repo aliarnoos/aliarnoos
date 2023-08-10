@@ -24,12 +24,12 @@ React, Vue, and Next.js
 Nest.js and Express.js
 
 #### 🛠️ Tools
-TailWind, MongoDB, GraphQL and SASS
+MySQL, MongoDB, GraphQL, TailWind, and SCSS
 
 ## Current Tech Stack 📚
-Client: React, Vue, Typescript, and TailwindCSS
+Client: Vue, Typescript, and TailwindCSS
 
-Server: Nest.js, Express.js, MySQL, and MongoDB
+Server: Nest.js, Typescript, MySQL
 
 ## Contact me 📇
 Contact me through this email alimarnoos@gmail.com
