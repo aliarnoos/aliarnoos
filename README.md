@@ -18,18 +18,18 @@ Highly motivated and self-taught Web Developer. Committed to building robust, sc
 Typescript and Java
 
 #### 🖼️ Frontend Frameworks
-React, Vue, and Next.js 
+React, React Native, Vue, and Next.js 
 
 #### 🌐 Backend Frameworks
-Nest.js and Express.js
+Nest.js, Laravel, and Express.js
 
 #### 🛠️ Tools
 MySQL, MongoDB, GraphQL, TailWind, and SCSS
 
 ## Current Tech Stack 📚
-Client: Vue, Typescript, and TailwindCSS
+Client: React Native, React, Typescript, and TailwindCSS
 
-Server: Nest.js, Typescript, MySQL
+Server: Laravel and MySQL
 
 ## Contact me 📇
 Contact me through this email alimarnoos@gmail.com
