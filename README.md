@@ -18,16 +18,16 @@ Highly motivated and self-taught Web Developer. Committed to building robust, sc
 Typescript and Java
 
 #### 🖼️ Frontend Frameworks
-React, React Native, Vue, and Next.js 
+React, React Native, Vue.js, and Next.js 
 
 #### 🌐 Backend Frameworks
 Nest.js, Laravel, and Express.js
 
 #### 🛠️ Tools
-MySQL, MongoDB, GraphQL, TailWind, and SCSS
+MySQL, MongoDB, TailWind, and SCSS
 
 ## Current Tech Stack 📚
-Client: React Native, React, Typescript, and TailwindCSS
+Client: React Native, React, Typescript, Laravel, and TailwindCSS
 
 Server: Laravel and MySQL
 
