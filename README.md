@@ -8,10 +8,6 @@ A Full-stack Developer with a passion for bringing new and creative ideas to liv
 
 
 
-## About Me 💡
-
-Highly motivated and self-taught Web Developer. Committed to building robust, scalable, and maintainable web solutions that deliver exceptional user experiences. Eager to contribute technical skills, creativity, and a strong work ethic to drive success in dynamic development environments.
-
 ## Skills
 
 #### 💻 Programming languages 
