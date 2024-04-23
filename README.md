@@ -1,6 +1,7 @@
 
 # Hi I'm Ali! 👋
 
+## About Me
 A Full-stack Developer with a passion for bringing new and creative ideas to live products on the web. Developed several functional websites and full-stack applications. Enthusiast for building robust, scalable, and maintainable web applications.
 
 
