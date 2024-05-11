@@ -2,8 +2,7 @@
 # Hi I'm Ali! 👋
 
 ## About Me
-A Full-stack Developer with a passion for bringing new and creative ideas to live products on the web. Developed several functional websites and full-stack applications. Enthusiast for building robust, scalable, and maintainable web applications.
-
+A software engineer with a robust skill set encompassing TypeScript, Node.js, React, and React Native, I bring a unique blend of expertise to the table. My proficiency extends across architecting scalable backend solutions and crafting responsive user interfaces for web and mobile platforms. With a passion for staying abreast of emerging technologies, I continuously innovate to deliver high-quality solutions that meet the evolving needs of the industry.
 
 
 
@@ -12,21 +11,21 @@ A Full-stack Developer with a passion for bringing new and creative ideas to liv
 ## Skills
 
 #### 💻 Programming languages 
-Typescript and Java
+JavaScript, TypeScript, and Java
 
 #### 🖼️ Frontend Frameworks
 React, React Native, Vue.js, and Next.js 
 
 #### 🌐 Backend Frameworks
-Nest.js, Laravel, and Express.js
+Node.js, Nest.js, Laravel, and Express.js
 
 #### 🛠️ Tools
 MySQL, MongoDB, TailWind, and SCSS
 
 ## Current Tech Stack 📚
-Client: React Native, React, Typescript, Laravel, and TailwindCSS
+Client: React Native, React, Typescript, and TailwindCSS
 
-Server: Laravel and MySQL
+Server: Node.js and MySQL
 
 ## Contact me 📇
 Contact me through this email alimarnoos@gmail.com
