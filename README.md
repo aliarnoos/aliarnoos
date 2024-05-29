@@ -2,7 +2,7 @@
 # Hi I'm Ali! 👋
 
 ## About Me
-A software engineer with a robust skill set encompassing TypeScript, Node.js, React, and React Native, I bring a unique blend of expertise to the table. My proficiency extends across architecting scalable backend solutions and crafting responsive user interfaces for web and mobile platforms. With a passion for staying abreast of emerging technologies, I continuously innovate to deliver high-quality solutions that meet the evolving needs of the industry.
+A software engineer with a robust skill set including TypeScript, Node.js, React, and React Native. I build intersting solutions to fix any problem faced.
 
 
 
