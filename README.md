@@ -1,12 +1,7 @@
 
 # Hi I'm Ali! 👋
 
-## About Me
 A software engineer with a robust skill set in TypeScript, Node.js, React, and React Native. I build intersting solutions to fix any problem faced.
-
-
-
-
 
 ## Skills
 
