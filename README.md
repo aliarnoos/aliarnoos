@@ -17,7 +17,7 @@ JavaScript, TypeScript, and Java
 React, React Native, Vue.js, and Next.js 
 
 #### 🌐 Backend Frameworks
-Node.js, Nest.js, Laravel, and Express.js
+Node.js, Nest.js, and Laravel
 
 #### 🛠️ Tools
 MySQL, MongoDB, TailWind, and SCSS
