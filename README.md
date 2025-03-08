@@ -8,13 +8,13 @@ I build software with wood and stones.
 #### 💻 Programming languages 
 PHP, TypeScript, and Java
 
-#### 🖼️ Frontend Frameworks
+#### 🖼️ Frontend Frameworks (I hate frontend so much)
 React, React Native, Vue.js, and Next.js 
 
-#### 🌐 Backend Frameworks
+#### 🌐 Backend Frameworks (I dig this a lot)
 Node.js, Laravel, and Nest.js
 
-#### 🛠️ Tools
+#### 🛠️ Tools 
 MySQL, MongoDB, TailWind, and SCSS
 
 
